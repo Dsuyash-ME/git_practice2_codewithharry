@@ -1,2 +1,2 @@
 ndsdm
-this is the diff
+this is to compare last commit and staging area.
